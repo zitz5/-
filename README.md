@@ -1,2 +1,2 @@
-# dalil.maqasati.html
+# dalil.maqasat.html
  دليل المقاسات من شي ان
